@@ -308,7 +308,7 @@ function stopGame() {
 function startGame(){
   //setDuration(10);
   //showUp();
-  setDuration(15);
+  setDuration(60);
 	showUp();
   points = 0;
 	clearScore();
